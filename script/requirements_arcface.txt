@@ -1,0 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.5.1+cu121
+torchvision==0.20.1+cu121
+onnxruntime-gpu==1.23.2
+insightface==1.0.1
+umap-learn==0.5.12
+hdbscan==0.8.44
+opencv-python==4.10.0.84
+scikit-learn==1.7.2
+matplotlib==3.10.9
+pandas==2.3.3
+numpy==1.26.4
+pillow==12.3.0
+tqdm==4.70.0
+ipywidgets==8.1.9
